@@ -444,7 +444,7 @@ necronomicon.text.dreadlands.progression.1=Una vez que haya llegado al Dreadland
 necronomicon.text.dreadlands.progression.2=Una vez que tenga las dos piezas de altar,es necesario colocarlos en Y = 40 dentro del bioma de Montaña del Dreadlands y haga clic en él.Si lo hace,se autorizará la entrada a la guarida de Cha'garoth.Después de luchar con Dreadguards y eventualmente matando a Cha'garoth,recibirá una Llave de Entrada plagada-Dread,junto con el botín.La Llave necesita ser transmutada una funcional. 
 necronomicon.text.dreadlands.progression.3=Con el mencionado Transmutador (receta en la sección de materiales especiales Abyssal Wasteland) puede transmutar la Llave de Entrada plagada-Dread en Cha'garoth de la Llave de Entrada de R'lyehian,la concesión de acceso al Omothol.Actualización del Necronomicon al Necronomicon del Omothol requiere 8 Pieles de Omothol.
 
-necronomicon.text.omothol.progression.1=Al llegar al Omothol,es el momento de luchar con J'zahar,Guardián del Abyss.El templo de J'zahar puede estar situado en el corazón del Omothol (coordenadas X = 4, Y = 53, Z = 7).Una vez que haya vencido al Guardián de la Puerta,usted será capaz de desbloquear todo el conocimiento oculto a través del Abyssalnomicon.
+necronomicon.text.omothol.progression.1=Al llegar al Omothol,es el momento de luchar con J'zahar,Guardián del Abyss.El templo de J'zahar puede estar situado en el corazón del Omothol (coordenadas X=4, Y=53, Z=7).Una vez que haya vencido al Guardián de la Puerta,usted será capaz de desbloquear todo el conocimiento oculto a través del Abyssalnomicon.
 necronomicon.text.omothol.progression.2=El Abyssalnomicon requiere Lingotes de Ethaxium,Escalas de Eldritch y la esencia del Guardián de la Puerta (Dado por J'zahar).
 necronomicon.text.omothol.progression.3=
 necronomicon.text.omothol.progression.4=
@@ -452,7 +452,7 @@ necronomicon.text.omothol.progression.5=
 necronomicon.text.omothol.progression.6=
 
 necronomicon.text.darkrealm.progression.1=Una vez que haya llegado al Reino de la Oscuridad,no hay mucho que hacer,aparte de enfrentar olas infinitas de seres de sombra y Sacthoth,ya que este es su habitante natural.
-necronomicon.text.darkrealm.progression.2=La razón principal para caer intencionalmente aquí sería la de obtener grandes cantidades de Gemas Oscuras y / o de Almas de Sacthoth Blade Reaper.
+necronomicon.text.darkrealm.progression.2=La razón principal para caer intencionalmente aquí sería la de obtener grandes cantidades de Gemas Oscuras y/o de Almas para la Espada Segadora de Almas.
 
 necronomicon.text.entity.anti.1=En el interior del Pantano Infestado de Coralium puedes encontrar diversas formas de vida hechas de antimateria.
 necronomicon.text.entity.anti.2=Si una Anti-entidad choca con su contraparte normal,explotan.Hay versiones de anti-zombis,zombis,Abyssal Zombies, Esqueletos,Espiritus Necrófagos,murciélagos,vacas,cerdos,pollos,enredaderas,arañas y los jugadores.Anti-jugadores no explotan.
