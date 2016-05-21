@@ -698,7 +698,7 @@ ac_worldgen=Generación del Mundo
 ac_worldgen.tooltip=Configuración de la generación del mundo
 
 #Damagesources
-death.attack.coralium=%1$s murio por Plaga de Coralium
+death.attack.coralium=%1$s murio por la Plaga de Coralium
 death.attack.coralium.player=%1$s sucumbio a la Plaga de Coralium al mismo tiempo tratando de escapar de %2$s
 death.attack.dread=%1$s murio por la Dread Plaga
 death.attack.dread.player=%1$s sucumbio a la fuerza de Cha'garoth al mismo tiempo tratando de escapar de %2$s
