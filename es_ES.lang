@@ -414,7 +414,7 @@ necronomicon.text.crafting.sacrificialaltar.1=Un altar de sacrificio se hace con
 necronomicon.text.crafting.sacrificialaltar.2=Cuando es concentrado en una entidad,emitirá partículas de humo.Una vez que la entidad muere,una cantidad de EP al igual que se recogerá la salud máxima.Que sólo se refiere a las entidades de adultos no-muertos que no son jugadores.Cabe señalar que el altar va en un tiempo de reutilización después de recoger una cierta cantidad de EP,cuyo tiempo es de un minuto.
 
 necronomicon.text.crafting.upgradekit.1=Un kit de actualización se hace con madera,Piedra,cuerda y un Mechero.Con los kits de actualización se pueden actualizar las herramientas y las armaduras a través de un crafteo.
-necronomicon.text.crafting.upgradekit.2=Para actualizar se necesita 2 del material al que se quiera actualizar y 1 del material actual.Los materiales son de madera -> Piedra -> Hierro -> Oro -> Diamante -> Abyssalnite -> Coralium Refinado -> Dreadium -> Ethaxium.
+necronomicon.text.crafting.upgradekit.2=Para actualizar se necesita 2 del material a actualizar y 1 del material actual.Los materiales son madera -> Piedra -> Hierro -> Oro -> Diamante -> Abyssalnite -> Coralium Refinado -> Dreadium -> Ethaxium.
 necronomicon.text.crafting.ironplate=Un plato de hierro se hace a partir de 2 lingotes de hierro.Los platos de hierro pueden mejorar la saturación de ciertos alimentos.
 necronomicon.text.crafting.washcloth=Una Toalla de Limpiar se hace con lana y tela de araña.Se utiliza para limpiar los platos sucios (dados al comer alimentos en un plato).
 necronomicon.text.crafting.mre=Un MRE (comida, listo para comer) se hace con un plato de de hierro,una zanahoria,una patata y un filete.Tiene la capacidad de llenar la barra de comida entera.
