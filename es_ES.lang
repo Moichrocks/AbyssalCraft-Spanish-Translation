@@ -182,8 +182,9 @@ message.jzahar.death.10=Si sobrevivió a la explosión, tome este mero fragmento
 message.jzahar.banish.vanilla=Nunca pregunté para estar dentro de la misma dimensión que usted. Vete, falsa bestia!
 message.jzahar.banish.ac=Ejem... pensé que te di una asignación eones atrás, ¿se le ha ocurrido pensar que era permanente?
 message.jzahar.banish.jzh=¡Solo puede haber uno! * Crea espada de la nada *
+message.jzahar.banish.other=I don't believe we've been acquainted, I'm the one that banishes you from this dimension.
 message.jzahar.creative.1=%s, te das cuenta de que simplemente podía cambiar su modo de juego y yo matarlo a usted en ese momento? Yo soy ese tipo de entidad..
-message.jzahar.creative.2=Pero sí... técnicamente sería hacer trampa, así que sólo cumple las "reglas" y no hagas nada..
+message.jzahar.creative.2=Pero sí... técnicamente sería hacer trampa, así que sólo cumple las "reglas" y no hagas nada.
 message.sacthoth.spawn.1=Me desaté! Siente la ira de El reino oscuro, mortal.
 message.sacthoth.spawn.2=Pero primero, mira la explosión.
 message.sacthoth.damage.explosion=No estoy diciendo que no me puede volar, simplemente no funcionará..
@@ -249,12 +250,12 @@ necronomicon.patrons=Patrones
 necronomicon.information.armortools=Cosas especiales
 necronomicon.information.machines=Máquinas
 necronomicon.reqenergy=Energía requerida
-necronomicon.remnanthelp=Ayuda necesaria remanente
 necronomicon.gettingstarted=Primeros pasos
 necronomicon.potentialenergy=Energía potencial
 necronomicon.turnupindicator=Pagina %1$s de %2$s
 necronomicon.miscinformation=Información Miscelánea
 necronomicon.information.enchantments=Encantamientos
+necronomicon.sacrifice=Sacrifice required
 
 #Necronomicon Text
 #Note: the maximum amount of letters per string is 368
@@ -366,8 +367,6 @@ necronomicon.text.crafting.transmutator.1=Un Transmutador se hace con ladrillos 
 necronomicon.text.crafting.transmutator.2=Para obtener ladrillos de Coralium,debe verter el líquido en Antimateria líquida de Coralium,a continuación,recoge la piedra formada a partir del líquido de Coralium.Luego,debe fundir la piedra de Coralium para los lingotes de Coralium.
 necronomicon.text.crafting.crystallizer.1=Un cristalizador se hace utilizando ladrillos de Dreadstone, bloques de Dreadium y un horno.
 necronomicon.text.crafting.crystallizer.2=Los Lingotes de Dreadium se obtienen transmutando Fragmentos de Dreaded Abyssalnite, que se redujo en el interior de los Dreadguards Dreadlands. El Dreadium es mucho más fácil de obtener una vez que tenga un cristalizador.
-necronomicon.text.crafting.dreadaltarbot=EL altar de Cha'garoth (abajo) se hace con Dreadstone,Lingotes de  Dreadium, La llave de entrada Dreaded de Asorah's, huesos, Dread Cloth y de un Fragmento de Dreaded Abyssalnite.
-necronomicon.text.crafting.dreadaltartop=Un altar de Cha'garoth (arriba) se hace con palos, un cubo, Dread Cloths y lingotes de Dreadium.
 necronomicon.text.crafting.necro_o=El Omothol Necronomicon se hace a mano con piel de Omothol y un Necronomicon del Dreadlands.
 necronomicon.text.crafting.lifecrystal.1=Un cristal De La vida se hace con cristales de Carbon, un Hidrógeno, un Nitrógeno, un Oxígeno, un Fósforo y un Azufre .
 necronomicon.text.crafting.lifecrystal.2=Los cristales se obtienen a partir de la cristalización de Carbón, Agua, Nitre, Carne Podrida y Lapislázuli. El Cristal de Nitrógeno proviene de la cristalización del Cristal de Nitrato de la Nitre.
@@ -425,8 +424,8 @@ necronomicon.text.crafting.carboncluster=Un Cluster de Carbono se hace con carb�
 necronomicon.text.crafting.densecarboncluster=Los clusteres de carbono denso se hacen con Clusters de Carbono y un bloque de obsidiana.Puede ser transmutado en un diamante.
 necronomicon.text.crafting.crate=Una Caja de Madera se hace con palos,madera y un Cofre.Tiene una fila adicional de inventario,más que un cofre.
 
-necronomicon.text.enchantment.coralium=El encantamiento de Coralium le permite infectar cualquier entidad que se golpea con la plaga de Coralium (es decir, si no son inmunes).
-necronomicon.text.enchantment.dread=El encantamiento de Dread le permite infectar cualquier entidad que se golpea con la plaga de Dread (es decir, si no son inmunes).
+necronomicon.text.enchantment.coralium=The Coralium Enchantment allows you to infect any entity you hit with the Coralium Plague (that is, if they aren't immune). Can only be obtained through a ritual.
+necronomicon.text.enchantment.dread=The Dread Enchantment allows you to infect any entity you hit with the Dread Plague (that is, if they aren't immune). Can only be obtained through a ritual.
 necronomicon.text.enchantment.lightpierce=El encantamiento de La Luz de Pierce funciona como Perdición de los artrópodos,pero en los mobs oscuros.
 necronomicon.text.enchantment.ironwall=El encantamiento de Pared de Hierro funciona como Protección,repeliendo los ataques cuando es golpeado.
 
@@ -440,11 +439,11 @@ necronomicon.text.abyssal.progression.1=Una vez que haya llegado al Abyssal Wast
 necronomicon.text.abyssal.progression.2=Asorah utiliza dragones espectrales para curarse a sí mismo,por lo que se deben retirar rápidamente a través de la lucha.Una vez derrotado,Asorah bajará su ojo con una gran cantidad de exp y los materiales encontrados en la dimensión.La infusión del Dreadlands Powerstone se encuentra dentro de una Fortaleza Abyssal,que se puede encontrar utilizando Powerstone Trackers (receta en la sección de materiales especiales).
 necronomicon.text.abyssal.progression.3=Una vez que haya localizado el Powerstone,puede extraerlo con un Pico de Coralium Refinado.Por último se puede actualizar la Llave de Entrada mediante la infusión con los componentes necesarios ("Llave de Entrada de Dreaded Asorah" rituales). Actualiza tu Necronomicon al Necronomicon del Dreadlands requiere 8 pieles del Dreadlands.
 
-necronomicon.text.dreadlands.progression.1=Una vez que haya llegado al Dreadlands,su próximo objetivo es llegar al Omothol.Tendrá que poseer un Transmutador,que necesita para derrotar a Cha'garoth,La Dreadbeast.Con el fin de llegar a Cha'garoth,necesita el Altar de Cha'garoth,hecha de 2 piezas.Ambas recetas se encuentran en la sección de materiales especiales.
+necronomicon.text.dreadlands.progression.1=Una vez que haya alcanzado los Dreadlands, su próximo objetivo es llegar a Omothol. Tendrá que poseer un Transmutador, y que necesita para derrotar a Cha'garoth, La Dreadbeast. Con el fin de llegar a Cha'garoth, necesita el Altar de Cha'garoth, hecha de 2 piezas. Ambas piezas se crean a través de rituales.
 necronomicon.text.dreadlands.progression.2=Una vez que tenga las dos piezas de altar,es necesario colocarlos en Y = 40 dentro del bioma de Montaña del Dreadlands y haga clic en él.Si lo hace,se autorizará la entrada a la guarida de Cha'garoth.Después de luchar con Dreadguards y eventualmente matando a Cha'garoth,recibirá una Llave de Entrada plagada-Dread,junto con el botín.La Llave necesita ser transmutada una funcional. 
 necronomicon.text.dreadlands.progression.3=Con el mencionado Transmutador (receta en la sección de materiales especiales Abyssal Wasteland) puede transmutar la Llave de Entrada plagada-Dread en Cha'garoth de la Llave de Entrada de R'lyehian,la concesión de acceso al Omothol.Actualización del Necronomicon al Necronomicon del Omothol requiere 8 Pieles de Omothol.
 
-necronomicon.text.omothol.progression.1=Al llegar al Omothol,es el momento de luchar con J'zahar,Guardián del Abyss.El templo de J'zahar puede estar situado en el corazón del Omothol (coordenadas X=4, Y=53, Z=7).Una vez que haya vencido al Guardián de la Puerta,usted será capaz de desbloquear todo el conocimiento oculto a través del Abyssalnomicon.
+necronomicon.text.omothol.progression.1=Al llegar al Omothol,es el momento de luchar con J'zahar,Guardián del Abyss.El templo de J'zahar puede estar situado en el corazón del Omothol (coordenadas X=4,Y=53,Z=7).Una vez que haya vencido al Guardián de la Puerta,usted será capaz de desbloquear todo el conocimiento oculto a través del Abyssalnomicon.
 necronomicon.text.omothol.progression.2=El Abyssalnomicon requiere Lingotes de Ethaxium,Escalas de Eldritch y la esencia del Guardián de la Puerta (Dado por J'zahar).
 necronomicon.text.omothol.progression.3=
 necronomicon.text.omothol.progression.4=
@@ -517,18 +516,21 @@ necronomicon.text.rituals.3=Para crear el altar,sólo tiene que colocar los bloq
 necronomicon.text.rituals.4=Después de eso, usted puede comenzar a realizar rituales! Con el fin de realizar un ritual, coloque objetos sobre los pedestales y presionando shift-clic derecho en el altar con un Necronomicon.
 necronomicon.text.rituals.5=Al realizarse el ritual los pedestales lanzan humo hacia el altar.Rituales donde ganará objetos siempre terminan con un rayo golpeando el altar.
 necronomicon.text.rituals.6=La energía potencial es necesaria con el fin de realizar rituales (cada ritual muestra la cantidad que necesita).La energía potencial es una forma pura de energía sin explotar que se origina a partir de un plano superior de existencia.Se utiliza principalmente para alimentar sacrificios hechos a los Grandes Antiguos (cualquier ritual).Estatuas colocadas en los monolitos de los shoggoth,se dice que son capaz de drenar la misma.
+necronomicon.text.rituals.7=Some rituals require a living sacrifice. This means you need to have an Entity within close proximity of the altar and pedestals. If the Entity is of the correct type (living, adult, something a Lesser Shoggoth would eat) a bolt of lightning will kill it, and the ritual will begin. Failing to complete a ritual will trigger a Disruption, which is bad.
 
 necronomicon.text.pe.1=Energía potencial (EP) es una nueva forma de energía que se presenta en AbyssalCraft.Se origina a partir de un plano superior de existencia (donde ningún mortal se ha extraviado),y sólo se pueden recoger con la exploración de ley de líneas utilizando diversos métodos.Existen objetos capaces de hacerlo,que serán explicados aquí.
 necronomicon.text.pe.2=Un buen lugar para comenzar la obtención de los materiales necesarios para crear algunos de los objetos de recolección de EP es en las Guaridas Shoggoth,que se encuentran en pantanos y ríos.
 necronomicon.text.pe.3=Los monolitos Shoggoth también se construyen con monolito de piedra (de ahí el nombre),al tiempo que tienen estatuas colocadas en ellos.Estas estatuas pueden recoger EP.
-necronomicon.text.pe.4=Cabe señalar que los Shoggoths Menores sólo construyen estos monolitos en determinadas condiciones.Los teóricos afirman que tiene que ver con las posiciones de poder (pero son sin género,y no entienden el concepto de hieracrchy). Si 6 (o más) Los Shoggoths Menores si estan en un radio de 32 bloques el uno del otro,uno es propenso a subir un monolito fuera del exudado.
-necronomicon.text.pe.5=Las estatuas vienen en diferentes formas,que representan a todos los Grandes Antiguos.De pie cerca de uno en posesión de un Necronomicon le permite el transporte EP a usted.
-necronomicon.text.pe.6=Cabe señalar que la cosecha de EP no se aprecia.Esto provoca interrupciones en el lugar (los mostrados por un rayo golpeando la estatua,u otro manipulador de EP).Las interrupciones son eventos aleatorios que pueden afectar al jugador,otras entidades o el medio ambiente.Su propósito es castigar a los que intenta drenar el EP desde el plano superior.
-necronomicon.text.pe.7=Una forma de aumentar la eficiencia de las estatuas y otros manipuladores (EP) es mediante el uso de rituales de encanto.Pueden impulsar varias estadísticas (comprobar la información sobre herramientas).
-necronomicon.text.pe.8=También puede craftear un pedestal de energía,que puede recoger la EP de estatuas y otros manipuladores (EP) que se colocan a 3 bloques del pedestal.
-necronomicon.text.pe.9=Junto con el Pedestal de Energía está el altar de sacrificio,que puede convertir la fuerza de vida de las entidades que mueren en EP (Las entidades objetivo emiten humo).
-necronomicon.text.pe.10=Si la producción de PE todavía es demasiado lenta,también puede actualizar los Pedestales de Energía y el Altar Sacrificio a través de rituales de infusión.
-necronomicon.text.pe.11=Al llegar al Omothol,usted será capaz de crear encantos de Ritual-deidad específicamente (con un Abyssalnomicon),o comprarlos de Remanentes sacerdotes.Esos encantos darán un impulso adicional si se utiliza en manipuladores asociados a la misma deidad como la que se muestra en el encanto.
+necronomicon.text.pe.4=Cabe señalar que los Shoggoths Menores sólo construyen estos monolitos en determinadas condiciones. Los teóricos afirman que tiene que ver con las posiciones de poder (pero son sin género, y no entienden el concepto de hieracrchy). Si 6 (o más) menor Shoggoths son un radio de 32 cuadras el uno del otro, uno es propenso a subir un monolito fuera del exudado.
+necronomicon.text.pe.5=Se debe tener en cuenta que los Shoggoths Menores no tienen ningún límite en el número de monolitos que construyen, dando lugar a una posible infestación.
+necronomicon.text.pe.6=Si nota que la actividad Shoggoth cerca de su vivienda,es alta se aconseja que tiene que evacuar inmediatamente, o construir un muro grande (u otras medidas defensivas) para asegurar que la infestación no se propage en su tierra.La recuperación de la tierra de una infestación Shoggoth es bastante difícil,así que tenga cuidado.
+necronomicon.text.pe.7=Las estatuas vienen en diferentes formas,que representan a todos los Grandes Antiguos.De pie cerca de uno en posesión de un Necronomicon le permite el transporte EP a usted.
+necronomicon.text.pe.8=Cabe señalar que la cosecha de EP no se aprecia.Esto provoca interrupciones en el lugar (los mostrados por un rayo golpeando la estatua,u otro manipulador de EP).Las interrupciones son eventos aleatorios que pueden afectar al jugador,otras entidades o el medio ambiente.Su propósito es castigar a los que intenta drenar el EP desde el plano superior.
+necronomicon.text.pe.9=Una forma de aumentar la eficiencia de las estatuas y otros manipuladores (EP) es mediante el uso de rituales de encanto.Pueden impulsar varias estadísticas (comprobar la información sobre herramientas).
+necronomicon.text.pe.10=También puede craftear un pedestal de energía,que puede recoger la EP de estatuas y otros manipuladores (EP) que se colocan a 3 bloques del pedestal.
+necronomicon.text.pe.11=Junto con el Pedestal de Energía está el altar de sacrificio,que puede convertir la fuerza de vida de las entidades que mueren en EP (Las entidades objetivo emiten humo).
+necronomicon.text.pe.12=Si la producción de PE todavía es demasiado lenta,también puede actualizar los Pedestales de Energía y el Altar Sacrificio a través de rituales de infusión.
+necronomicon.text.pe.13=Al llegar al Omothol,usted será capaz de crear encantos de Ritual-deidad específicamente (con un Abyssalnomicon),o comprarlos de Remanentes sacerdotes.Esos encantos darán un impulso adicional si se utiliza en manipuladores asociados a la misma deidad como la que se muestra en el encanto.
 
 necronomicon.text.machines.info=Compruebe la sección de información para obtener información sobre las diferentes máquinas,o las otras secciones para todas las recetas de la máquina especificada.Las recetas no están ordenadas de cualquier manera.
 
@@ -676,6 +678,14 @@ ac.ritual.jzaharStaff=Personal del Guardián de la Puerta
 ac.ritual.jzaharStaff.desc=Un Personal del Guardián de la Puerta se crea mediante la infusión de un Bastón del Rending con una Esencia del abyssal Wasteland,una Esencia del Dreadlands,una Esencia del Omothol,Escalas de Eldritch y Lingotes de Ethaxium.
 ac.ritual.respawnJzahar=Ritual de tiempo inverso
 ac.ritual.respawnJzahar.desc=Si de alguna manera no pudo obtener una Esencia del Guardián de la Puerta, puede volver en el tiempo y luchar con J'zahar de nuevo.Sólo puede ser realizado en el Ritual de Altar dentro del templo de J'zahar (X=4,Y=54,Z=85).
+ac.ritual.altarOfChagarothBottom=Altar de Cha'garoth (Parte Inferior)
+ac.ritual.altarOfChagarothBottom.desc=Un altar de Cha'garoth (Parte Inferior) se crea con una Dreadstone.Lingotes de Dreadium,Llave de Entrada Dreaded de Asorah's,huesos y un pedazo de tela Dread.
+ac.ritual.altarOfChagarothTop=Altar de Cha'garoth (Parte Superior)
+ac.ritual.altarOfChagarothTop.desc=Un altar de Cha'garoth (Parte Superior) se crea con palos,un cubo,Tela Dread y Lingotes de Dreadium.
+ac.ritual.corEnchantment=Infusión de Coralium
+ac.ritual.corEnchantment.desc=Mediante la combinación de una Esencia del Abyssal Wasteland,Carne de Shoggoth Abyssal,Lingotes de Coralium Refinado,Carne-Plagada de Coralium y un libro,puede encantar un arma colocada en el altar con el encanto Coralium (si es aplicable).
+ac.ritual.dreEnchantment=Infusión Dread
+ac.ritual.dreEnchantment.desc=Mediante la combinación de una Esencia del Dreadlands,Carne de Shoggoth Dread,Lingotes de Dreadium,Fragmentos de Dread y un libro,puede encantar un arma colocada en el altar con el encanto Dread (si es aplicable).
 
 #Configuration
 ac_dimensions=Dimensiones
@@ -700,7 +710,7 @@ ac_worldgen.tooltip=Configuración de la generación del mundo
 #Damagesources
 death.attack.coralium=%1$s murio por la Plaga de Coralium
 death.attack.coralium.player=%1$s sucumbio a la Plaga de Coralium al mismo tiempo tratando de escapar de %2$s
-death.attack.dread=%1$s murio por la Dread Plaga
+death.attack.dread=%1$s murio por la Plaga Dread
 death.attack.dread.player=%1$s sucumbio a la fuerza de Cha'garoth al mismo tiempo tratando de escapar de %2$s
 death.attack.antimatter=%1$s fue desarmado molecularmente
 death.attack.antimatter.player=%1$s fue desarmado molecularmente tratando de escapar de %2$s
@@ -737,6 +747,7 @@ tooltip.drainstaff.energy.3=Energía del Omothol
 tooltip.drainstaff.energy.4=Energía Oscura
 tooltip.gatekeeperessence.1=Un mero fragmento de J'zahar.
 tooltip.gatekeeperessence.2=Se puede sentir que pulsa con el poder.
+tooltip.decorativestatue=This block is purely for decoration, and won't do anything
 
 #Creative Tabs
 itemGroup.acblocks=AbyssalCraft Bloques
@@ -804,7 +815,7 @@ tile.dsbfence.name=Valla de Ladrillos de Darkstone
 tile.dltfence.name=Valla de Madera de Roble del Darklands
 tile.dreadstone.name=Dreadstone
 tile.abydreadstone.name=Piedra de Abyssalnite
-tile.dreadore.name=Mena de  Dreaded Abyssalnite
+tile.dreadore.name=Mena de Dreaded Abyssalnite
 tile.abydreadore.name=Mena de Abyssalnite del Dreadlands
 tile.dreadbrick.name=Ladrillos de Dreadstone
 tile.abydreadbrick.name=Ladrillos de Piedra de Abyssalnite
@@ -901,6 +912,10 @@ tile.tieredsacrificialaltar.2.name=Altar Sacrificatorio del Dreadlands
 tile.tieredsacrificialaltar.3.name=Altar Sacrificatorio del Omothol 
 tile.jzaharspawner.name=Bloque de Spawn de J'zahar
 tile.gatekeeperminionspawner.name=Bloque de spawn de Esbirro del Guardián de la Puerta
+
+#Pre/Postfixes
+decorativestatue.prefix=Decorativo %s
+crystalcluster.postfix=%s Cluster
 
 #Items
 item.devsword.name=La Hoja Dev 
